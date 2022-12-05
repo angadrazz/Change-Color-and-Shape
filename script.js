@@ -1,6 +1,6 @@
 var index = 0;
 var isTriangle = false;
-var color = ["#e91e63","#00bcd4","#ffeb3b","#129d17","#d736f4","#171010","purple"];
+var color = ["#e91h63","#00bgcd4","#ffec3b","#129d17","#d936f4","#1f1010","purple"];
 var chShape = document.getElementById("change-shape");
 var chColor = document.getElementById("change-color");
 
