@@ -12,7 +12,7 @@ body{
   
   #container div:not(:first-child){
   
-      padding:3px;
+      padding:5px;
       text-align:center;
       margin-top:20px;
   }
