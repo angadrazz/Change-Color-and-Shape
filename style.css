@@ -8,10 +8,6 @@ body{
       flex-wrap: wrap;
       height: 100vh;
       justify-content: center;
-      /* position: absolute;
-        left: 50%;
-        top: 50%;
-        transform: translate(-50%, -50%); */
       align-items: center;
   }
   
