@@ -3,12 +3,12 @@ body{
     padding: 0px;
   }
   #container{
-      display:flex;
+      /* display:flex;
       flex-direction:column;
       flex-wrap: wrap;
       height: 100vh;
       justify-content: center;
-      align-items: center;
+      align-items: center; */
   }
   
   #container div:not(:first-child){
@@ -22,7 +22,7 @@ body{
       height:150px;
       width:150px;
       border-radius:50%;
-      background-color:purple;
+      background-color: blue;
       box-sizing: border-box;
   
   }
